@@ -1,0 +1,1 @@
+The system allows the general user to view real-time weather information based on the selected location. The system retrieves live weather data and displays key parameters such as temperature, humidity, and wind speed. The system also provides a refresh option that allows the user to update the displayed weather information in real time.
